@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888483942601",
+    "firebase_url": "https://farmer-producers-organis-bc60e.firebaseio.com",
+    "project_id": "farmer-producers-organis-bc60e",
+    "storage_bucket": "farmer-producers-organis-bc60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888483942601:android:551d0d683ab9aa481b3d18",
+        "android_client_info": {
+          "package_name": "com.viga.fpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888483942601-ps49qabsglp8ptu3c4jbcl4jbp1idtqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viga.fpo",
+            "certificate_hash": "2f5dcaf776691fd2a58dd117cdf21f75231cff8a"
+          }
+        },
+        {
+          "client_id": "888483942601-5mi3hbfe56sqqjuv71266tv7mtctgt8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRf5D7cH1X7R3h9e0GhZDNKaxCmpXF_7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888483942601-5mi3hbfe56sqqjuv71266tv7mtctgt8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
